@@ -10,7 +10,7 @@
         private void toolStripButton1_Click(object sender, System.EventArgs e)
         {
 
-            Tickets ticket = new();
+            TicketsFF ticket = new TicketsFF();
             ticket.Show();
             this.Hide();
         }

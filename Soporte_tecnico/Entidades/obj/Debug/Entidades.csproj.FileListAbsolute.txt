@@ -1,0 +1,6 @@
+C:\Users\HTS\Desktop\ASIGNACIONES_LP3\I_PARCIAL_LP3\Examen-II\Soporte_tecnico\Entidades\bin\Debug\Entidades.dll
+C:\Users\HTS\Desktop\ASIGNACIONES_LP3\I_PARCIAL_LP3\Examen-II\Soporte_tecnico\Entidades\bin\Debug\Entidades.pdb
+C:\Users\HTS\Desktop\ASIGNACIONES_LP3\I_PARCIAL_LP3\Examen-II\Soporte_tecnico\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\HTS\Desktop\ASIGNACIONES_LP3\I_PARCIAL_LP3\Examen-II\Soporte_tecnico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\HTS\Desktop\ASIGNACIONES_LP3\I_PARCIAL_LP3\Examen-II\Soporte_tecnico\Entidades\obj\Debug\Entidades.dll
+C:\Users\HTS\Desktop\ASIGNACIONES_LP3\I_PARCIAL_LP3\Examen-II\Soporte_tecnico\Entidades\obj\Debug\Entidades.pdb
